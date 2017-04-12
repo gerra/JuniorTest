@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuniorTest</string>
+    <string name="currencyCodeEditTextHint">Enter currency code</string>
+    <string name="getRates">Get rates</string>
+</resources>
