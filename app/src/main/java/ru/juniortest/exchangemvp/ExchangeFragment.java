@@ -84,12 +84,12 @@ public class ExchangeFragment extends Fragment implements ExchangeView {
 
     @Override
     public void showExchangeList() {
-        ratesRecyclerView.setVisibility(View.GONE);
+        ratesRecyclerView.setVisibility(View.VISIBLE);
     }
 
     @Override
     public void hideExchangeList() {
-        ratesRecyclerView.setVisibility(View.VISIBLE);
+        ratesRecyclerView.setVisibility(View.GONE);
     }
 
     @Override
